@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "src/level3",
+        "src/level2",
+        "src/level1",
+        "src"
+    ]
+}
